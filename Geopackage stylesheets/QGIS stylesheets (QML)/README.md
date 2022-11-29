@@ -1,6 +1,6 @@
 ﻿# OSMM Functional Sites and Access Points
 
-These are QML files for OSMM Functional Sites and Access Points in Geopackage format for use in QGIS.
+These are **QML** files for OSMM Functional Sites and Access Points in **Geopackage** format for use in **QGIS**.
 
 *They have been designed to work with the data as it is supplied.*
 
@@ -25,11 +25,9 @@ We strive to make our QML files compatible with the latest long-term release of 
 
 ## Additional information
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
+[More information about OSMM Sites Layer](https://www.ordnancesurvey.co.uk/business-government/products/mastermap-sites-layer)
 
-[More information about OSMM Sites Layer](https://www.ordnancesurvey.co.uk/business-government/products/mastermap-topography)
-
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 ## Licence
 
