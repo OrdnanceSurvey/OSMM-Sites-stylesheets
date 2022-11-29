@@ -1,6 +1,6 @@
 ﻿# OSMM Functional Sites and Access Points
 
-These are SLD files for OSMM Functional Sites and Access Points in Geopackage format for use in GeoServer.
+These are **SLD** files for OSMM Functional Sites and Access Points in **Geopackage** format for use in **GeoServer**.
 
 *They have been designed to work with the data as it is supplied.*
 
@@ -19,11 +19,9 @@ The scale denominators have been set to allow viewing between **1:1** and **1:10
 
 ## Additional information
 
-[More information about how to download, apply and customise our stylesheets including a Stylesheet User Guide](http://www.ordnancesurvey.co.uk/resources/carto-design/cartographic-stylesheets.html)
+[More information about OSMM Sites Layer](https://www.ordnancesurvey.co.uk/business-government/products/mastermap-sites-layer)
 
-[More information about OSMM Sites Layer](https://www.ordnancesurvey.co.uk/business-government/products/mastermap-topography)
-
-[More information about cartographic design at Ordnance Survey](https://www.ordnancesurvey.co.uk/resources/carto-design/)
+[For more information about data styling and visualisation, take a look at our GeoDataViz toolkit](https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit)
 
 ## Licence
 
