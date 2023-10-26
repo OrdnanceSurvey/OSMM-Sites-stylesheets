@@ -5,14 +5,14 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
   <NamedLayer>
     <Name>OS MasterMap Sites Layer</Name>
     <UserStyle>
-        <Title>OS MasterMap Sites style</Title>
+        <Title>OS MasterMap Sites style - October 2023</Title>
         <Abstract>OS MasterMap Sites</Abstract>
         <FeatureTypeStyle>
             <Rule>
                 <Name>Air Transport</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>functiontheme</ogc:PropertyName>
+                    <ogc:PropertyName>function_theme</ogc:PropertyName>
                     <ogc:Literal>Air Transport</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -28,7 +28,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Education</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>functiontheme</ogc:PropertyName>
+                    <ogc:PropertyName>function_theme</ogc:PropertyName>
                     <ogc:Literal>Education</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -44,7 +44,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Medical Care</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>functiontheme</ogc:PropertyName>
+                    <ogc:PropertyName>function_theme</ogc:PropertyName>
                     <ogc:Literal>Medical Care</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -60,7 +60,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Road Transport</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>functiontheme</ogc:PropertyName>
+                    <ogc:PropertyName>function_theme</ogc:PropertyName>
                     <ogc:Literal>Road Transport</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -76,7 +76,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Water Transport</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>functiontheme</ogc:PropertyName>
+                    <ogc:PropertyName>function_theme</ogc:PropertyName>
                     <ogc:Literal>Water Transport</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -92,7 +92,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Rail Transport</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>functiontheme</ogc:PropertyName>
+                    <ogc:PropertyName>function_theme</ogc:PropertyName>
                     <ogc:Literal>Rail Transport</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -108,7 +108,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Utility or Industrial</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>functiontheme</ogc:PropertyName>
+                    <ogc:PropertyName>function_theme</ogc:PropertyName>
                     <ogc:Literal>Utility or Industrial</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
