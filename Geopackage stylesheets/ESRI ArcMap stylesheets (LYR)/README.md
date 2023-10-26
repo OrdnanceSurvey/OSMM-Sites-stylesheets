@@ -1,6 +1,6 @@
 ﻿# OSMM Functional Sites and Access Points
 
-These are **LYR** files for OSMM Functional Sites and Access Points in **Geopackage** format for use in **ESRI ArcGIS**.
+These are **LYR** files for OSMM Functional Sites and Access Points in **Geopackage** format for use in **ESRI ArcMap**.
 
 *They have been designed to work with the data as it is supplied.*
 
