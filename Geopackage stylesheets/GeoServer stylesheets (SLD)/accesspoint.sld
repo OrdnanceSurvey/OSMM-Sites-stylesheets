@@ -5,7 +5,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
   <NamedLayer>
     <Name>OS Access Point Style</Name>
     <UserStyle>
-        <Title>OS Access Point style</Title>
+        <Title>OS Access Point style - October 2023 </Title>
         <Abstract>OS Access Point</Abstract>
         <FeatureTypeStyle>
 
@@ -13,7 +13,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Motor Vehicles 1:1 - 1:4,000</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>accesstype</ogc:PropertyName>
+                    <ogc:PropertyName>access_type</ogc:PropertyName>
                     <ogc:Literal>Motor Vehicles</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -36,7 +36,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Motor Vehicles 1:4,001 - 1:10,000</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>accesstype</ogc:PropertyName>
+                    <ogc:PropertyName>access_type</ogc:PropertyName>
                     <ogc:Literal>Motor Vehicles</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -59,7 +59,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Motor Vehicles,Pedestrian 1:1 - 1:4,000</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>accesstype</ogc:PropertyName>
+                    <ogc:PropertyName>access_type</ogc:PropertyName>
                     <ogc:Literal>Motor Vehicles,Pedestrian</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -82,7 +82,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Motor Vehicles,Pedestrian 1:4,001 - 1:10,000</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>accesstype</ogc:PropertyName>
+                    <ogc:PropertyName>access_type</ogc:PropertyName>
                     <ogc:Literal>Motor Vehicles,Pedestrian</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -105,7 +105,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Pedestrian 1:1 - 1:4,000</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>accesstype</ogc:PropertyName>
+                    <ogc:PropertyName>access_type</ogc:PropertyName>
                     <ogc:Literal>Pedestrian</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
@@ -128,7 +128,7 @@ xsi:schemaLocation="http://www.opengis.net/sld http://schemas.opengis.net/sld/1.
                 <Name>Pedestrian 1:4,001 - 1:10,000</Name>
                 <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
                     <ogc:PropertyIsEqualTo>
-                    <ogc:PropertyName>accesstype</ogc:PropertyName>
+                    <ogc:PropertyName>access_type</ogc:PropertyName>
                     <ogc:Literal>Pedestrian</ogc:Literal>
                     </ogc:PropertyIsEqualTo>
                 </ogc:Filter>
